@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Serif', ;
-  background-color: #1d1e2b; color: #1d1e2b
+  background-color: #191919; color: #191919
 }
 
 #root {
@@ -64,7 +64,7 @@ button:focus {
 }
 
 #timer-label {
-  font-size: 27px; color: #1d1e2b;
+  font-size: 27px; color: #191919;
   text-align: center;
   padding-top: 10px;
   background-color: rgb(56, 67, 79);
