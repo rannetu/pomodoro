@@ -164,7 +164,7 @@ class App extends React.Component {
       React.createElement("div", { className: "break-container" }, /*#__PURE__*/
       React.createElement(SetTimerLength, {
         timerLabelId: "break-label",
-        timerLabel: "Tempo de intervalo",
+        timerLabel: "Interval time",
         timerLen: this.state.breakLen,
         timerLenId: "break-length",
         decTimerId: "break-decrement",
@@ -176,7 +176,7 @@ class App extends React.Component {
       React.createElement("div", { className: "session-container" }, /*#__PURE__*/
       React.createElement(SetTimerLength, {
         timerLabelId: "session-label",
-        timerLabel: "Tempo de sess\xE3o",
+        timerLabel: "Sess\xE3o time",
         timerLen: this.state.sessionLen,
         timerLenId: "session-length",
         decTimerId: "session-decrement",
