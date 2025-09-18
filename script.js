@@ -176,7 +176,7 @@ class App extends React.Component {
       React.createElement("div", { className: "session-container" }, /*#__PURE__*/
       React.createElement(SetTimerLength, {
         timerLabelId: "session-label",
-        timerLabel: "Sess\xE3o time",
+        timerLabel: "Session time",
         timerLen: this.state.sessionLen,
         timerLenId: "session-length",
         decTimerId: "session-decrement",
