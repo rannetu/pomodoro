@@ -1,8 +1,8 @@
 import React from "https://cdn.skypack.dev/react@17.0.1";
 import ReactDOM from "https://cdn.skypack.dev/react-dom@17.0.1";
 
-const SESSION = "Sessão";
-const BREAK = "Intervalo";
+const SESSION = "Session";
+const BREAK = "Break";
 const SESSIONLEN = 25;
 const BREAKLEN = 5;
 
